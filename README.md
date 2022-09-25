@@ -1,7 +1,6 @@
 # Supply_information_and_crop_prediction
-prediction model of crop and supply demand information of top crops 
+Prediction model of crop and supply demand information of top crops 
 
-[Open in Colab](https://colab.research.google.com/drive/1m2S3sRjK_CvCathjcyOFbIu0D8Xl4ESW)
 The proposed system predicts the crop production for the given region.
 ## Dataset info
 The dataset used for this project is available [here](https://data.gov.in/resource/district-wise-season-wise-crop-production-statistics-1997)
